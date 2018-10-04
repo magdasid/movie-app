@@ -1,6 +1,7 @@
 # movie-app
 
-Movie App to wyszukiwarka filmów i seriali. Strona wykorzystuje THE MOVIE DB API (https://www.themoviedb.org/documentation/api). 
+Movie App to wyszukiwarka filmów i seriali. 
+Strona wykorzystuje THE MOVIE DB API (https://www.themoviedb.org/documentation/api). 
 
 Po wpisaniu frazy wyszukiwania, strona wyświetla pasujące wyniki:
  - tytuł filmu/serialu
