@@ -1,10 +1,10 @@
 # movie-app
 
-Movie App to wyszukiwarka filmów i seriali. 
+Movie App to wyszukiwarka filmów, seriali i aktorów. 
 
 Strona wykorzystuje THE MOVIE DB API (https://www.themoviedb.org/documentation/api). 
 
-Po wpisaniu frazy wyszukiwania, strona wyświetla pasujące wyniki:
+Dla filmów i seriali po wpisaniu frazy wyszukiwania, strona wyświetla pasujące wyniki:
  - tytuł filmu/serialu
  - rok powstania
  - plakat
@@ -17,3 +17,8 @@ Po wpisaniu frazy wyszukiwania, strona wyświetla pasujące wyniki:
  
  ![alt text](https://raw.githubusercontent.com/magdasid/movie-app/master/photos/photo2.png)
  
+Dla aktorów po wpisaniu frazy wyszukiwania, strona wyświetla pasujące wyniki:
+ - imię i nazwisko aktora
+ - 3 najpopulaniejsze filmy, w których grał aktor.
+ 
+  ![alt text](https://raw.githubusercontent.com/magdasid/movie-app/master/photos/photo3.png)
