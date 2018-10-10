@@ -21,4 +21,4 @@ Dla aktorów po wpisaniu frazy wyszukiwania, strona wyświetla pasujące wyniki:
  - imię i nazwisko aktora
  - 3 najpopulaniejsze filmy, w których grał aktor.
  
-  ![alt text](https://raw.githubusercontent.com/magdasid/movie-app/master/photos/photo3.png)
+ ![alt text](https://raw.githubusercontent.com/magdasid/movie-app/master/photos/photo3.png)
