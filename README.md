@@ -1,4 +1,4 @@
-# movie-app
+# Movie-app
 
 Movie App to wyszukiwarka filmów, seriali i aktorów. 
 
